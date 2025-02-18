@@ -34,5 +34,6 @@
     font-weight: 500;
     background-color: white;
     font-size: max(1vw,13px);
+    cursor: pointer;
 
 }
