@@ -6,7 +6,12 @@
 
 }
 .navbar .logo{
-    width: 150px;
+    /* width: 150px; */
+    font-size: 40px;
+    color: tomato;
+    font-weight: 800;
+    cursor: pointer;
+
 }
 .navbar-menu{
     display: flex;
@@ -19,6 +24,7 @@
     display: flex;
     align-items: center;
     gap: 40px;
+    
 }
 .navbar li{
     cursor: pointer;

@@ -7,7 +7,8 @@ const Navbar = () => {
   return (
     <>
       <div className="navbar">
-        <img src={assets.logo} className="logo" />
+        {/* <img src={assets.logo} className="logo" /> */}
+        <span className="logo">BhojMandu.</span>
         <ul className="navbar-menu">
           <li
             onClick={() => {
